@@ -1,5 +1,9 @@
 I have used tmdb_5000_movies abd tmdb_5000_credits csv datasets to create this project.
 
+There are two approaches involved in movies recommendation technique namely collaborative filtering based technique and content similarity based technique.
+
+This project uses content similarity based recommendation based on directors name, actors name and so on.
+
 The process of development involved
 
 
